@@ -66,12 +66,12 @@ export function BookingForm() {
             title="Let's Create Something Beautiful."
             description="Have a dress that needs adjusting, a blouse that needs the perfect fit, or a design you've been dreaming about?"
           />
-          <div className="mt-8 flex items-center gap-4 rounded-[1.6rem] bg-[#F8F3ED] p-5 text-[#242124]">
+          {/* <div className="mt-8 flex items-center gap-4 rounded-[1.6rem] bg-[#F8F3ED] p-5 text-[#242124]">
             <span className="grid h-12 w-12 place-items-center rounded-full bg-[#6B2638] text-white">
               <CalendarDays className="h-5 w-5" aria-hidden="true" />
             </span>
             <p className="leading-7 text-[#5D5557]">This first version records the request on screen only. A backend, WhatsApp or email workflow can be connected in <code className="rounded bg-white px-1 py-0.5 text-xs">src/lib/appointment.ts</code>.</p>
-          </div>
+          </div> */}
         </SectionReveal>
 
         <SectionReveal delay={0.1}>

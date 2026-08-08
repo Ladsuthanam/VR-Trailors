@@ -9,8 +9,8 @@ export const businessInfo = {
   address: "VR Tailors location on Google Maps",
   locationUrl:
     "https://www.google.com/local/place/fid/0x3afe57007684af0d:0xeb36a49d6ce53762/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DnGmA5Q11LzJwcj1V6hx0fg%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D127.73228%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFm5HbUE1UTExTHpKd2NqMVY2aHgwZmc%3D&sa=X&ved=2ahUKEwi8w47FpJGWAxWGzDgGHXjsCX4Qpx96BAgvEAU",
-  openingHours: "REPLACE_WITH_OPENING_HOURS",
-  email: "REPLACE_WITH_EMAIL_OPTIONAL",
+  openingHours: "Mon-Sun 9.00AM - 5.00 PM",
+  email: "radhiradhiga3@gmail.com",
   seo: {
     canonicalUrl: "https://example.com/",
     description:

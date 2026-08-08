@@ -32,7 +32,7 @@ export function Footer() {
         </nav>
 
         <div>
-          <div className="flex gap-3">
+          {/* <div className="flex gap-3">
             <a href={businessInfo.socialLinks.instagram} aria-label="Instagram" className="grid h-11 w-11 place-items-center rounded-full bg-white/8 text-white transition hover:bg-white/14 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#B89455]">
               <Camera className="h-5 w-5" aria-hidden="true" />
             </a>
@@ -42,7 +42,7 @@ export function Footer() {
             <a href={getWhatsAppHref()} aria-label="WhatsApp" className="grid h-11 w-11 place-items-center rounded-full bg-white/8 text-white transition hover:bg-white/14 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#B89455]">
               <MessageCircle className="h-5 w-5" aria-hidden="true" />
             </a>
-          </div>
+          </div> */}
           <dl className="mt-6 grid gap-3 text-sm text-white/68">
             <div><dt className="font-bold text-white">Phone</dt><dd>{businessInfo.phone}</dd></div>
             <div>

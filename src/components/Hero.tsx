@@ -16,7 +16,7 @@ export function Hero() {
       <motion.img
         src={businessInfo.images.hero}
         alt="Elegant South Asian fashion portrait used as a tailoring studio placeholder."
-        className="absolute inset-0 h-full w-full object-cover object-[58%_center]"
+        className="absolute inset-0 h-full w-full object-cover object-[58%_20%]"
         initial={reduceMotion ? false : { scale: 1.06 }}
         animate={reduceMotion ? undefined : { scale: 1 }}
         transition={{ duration: 1.5, ease: [0.22, 1, 0.36, 1] }}
