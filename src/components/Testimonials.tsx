@@ -20,7 +20,7 @@ export function Testimonials() {
     <section className="bg-[#242124] px-5 py-20 text-white sm:px-8 lg:py-28">
       <div className="mx-auto max-w-5xl">
         <SectionReveal>
-          <SectionHeading light eyebrow="Testimonials" title="Loved by Our Customers" description="Sample review placeholders are ready to be replaced with real customer feedback." />
+          <SectionHeading light eyebrow="Testimonials" title="Loved by Our Customers" />
         </SectionReveal>
 
         <SectionReveal className="mt-12 overflow-hidden rounded-[2.5rem] bg-white/[0.06] p-7 shadow-[0_28px_90px_rgba(0,0,0,0.22)] ring-1 ring-white/10 backdrop-blur sm:p-10 lg:p-12">
