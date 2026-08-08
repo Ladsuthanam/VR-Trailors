@@ -1,5 +1,5 @@
-import { Camera, Globe, MessageCircle, Scissors } from "lucide-react";
-import { businessInfo, getWhatsAppHref } from "../config/business";
+import { Scissors } from "lucide-react";
+import { businessInfo } from "../config/business";
 
 const links = [
   { label: "Home", href: "#home" },

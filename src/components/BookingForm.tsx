@@ -1,5 +1,5 @@
 import { FormEvent, useState } from "react";
-import { CalendarDays, CircleCheck } from "lucide-react";
+import { CircleCheck } from "lucide-react";
 import { requestAppointment, type AppointmentPayload } from "../lib/appointment";
 import { serviceOptions } from "../data/services";
 import { Button } from "./ui/Button";

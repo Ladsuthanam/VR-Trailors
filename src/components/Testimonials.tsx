@@ -34,7 +34,7 @@ export function Testimonials() {
           </blockquote>
           <div className="mt-8 flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <p className="font-bold text-white">- {testimonial.name}</p>
+              <p className="font-bold text-white"> {testimonial.name}</p>
               <p className="mt-1 text-sm text-white/55">{testimonial.label}</p>
             </div>
             <div className="flex items-center gap-3">
